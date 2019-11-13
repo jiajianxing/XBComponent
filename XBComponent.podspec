@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XBComponent"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "动态化构建列表界面"
 
   # This description is used to generate tags and improve search results.
